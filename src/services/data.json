@@ -1,0 +1,4 @@
+{
+    "url": "https://api.tanki.su/wot/encyclopedia/vehicles/?application_id=2b0adae8aa6efcbaf9abba08c10e8a3d",
+    "defaultFields": "name%2Cnation%2Cimages%2Ctype%2Ctier%2Ctank_id"
+}
